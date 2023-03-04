@@ -1,0 +1,6 @@
+10;The Western Roman Emprire fell in;654;546;476;476;hard
+
+7;Which Apollo mission did not make it to the moon;11;13;17;13;hard
+
+6;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+

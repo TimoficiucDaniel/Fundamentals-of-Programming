@@ -1,6 +1,0 @@
-9;Name El Cid's horse;Babieca;Abu;Santiago;Babieca;hard
-
-10;The Western Roman Emprire fell in;654;546;476;476;hard
-
-4;Which country has the largest GDP;Brazil;China;UK;China;medium
-
